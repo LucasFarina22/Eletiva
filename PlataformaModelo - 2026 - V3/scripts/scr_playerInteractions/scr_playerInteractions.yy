@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_playerInteractions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_playerInteractions",
+  "parent":{
+    "name":"Interações",
+    "path":"folders/Scripts/Player/Interações.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

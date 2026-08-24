@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_worldSystems",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_worldSystems",
+  "parent":{
+    "name":"Mundo",
+    "path":"folders/Scripts/Sistemas/Mundo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

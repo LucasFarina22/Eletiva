@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_enemyInteractions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_enemyInteractions",
+  "parent":{
+    "name":"Interações",
+    "path":"folders/Scripts/Inimigos/Interações.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
