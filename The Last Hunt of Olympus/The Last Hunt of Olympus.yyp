@@ -69,6 +69,7 @@
     {"id":{"name":"scr_playerWallSlideState","path":"scripts/scr_playerWallSlideState/scr_playerWallSlideState.yy",},},
     {"id":{"name":"scr_worldMapTrack","path":"scripts/scr_worldMapTrack/scr_worldMapTrack.yy",},},
     {"id":{"name":"spr_cobra","path":"sprites/spr_cobra/spr_cobra.yy",},},
+    {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},},
     {"id":{"name":"spr_javali","path":"sprites/spr_javali/spr_javali.yy",},},
     {"id":{"name":"spr_lobo","path":"sprites/spr_lobo/spr_lobo.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
