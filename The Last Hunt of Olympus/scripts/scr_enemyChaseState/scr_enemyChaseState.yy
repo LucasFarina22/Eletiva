@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_enemyChaseState",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_enemyChaseState",
+  "parent":{
+    "name":"Estados",
+    "path":"folders/Scripts/Enemies/Estados.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_enemyCheckForPlayer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_enemyCheckForPlayer",
+  "parent":{
+    "name":"Sistemas",
+    "path":"folders/Scripts/Enemies/Sistemas.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

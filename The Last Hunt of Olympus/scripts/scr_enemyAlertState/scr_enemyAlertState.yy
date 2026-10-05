@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_enemyAlertState",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_enemyAlertState",
+  "parent":{
+    "name":"Estados",
+    "path":"folders/Scripts/Enemies/Estados.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
