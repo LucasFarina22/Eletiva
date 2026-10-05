@@ -102,6 +102,8 @@ else
 //Interações do Player
 scr_playerInteractions();
 
+
+
 // DIDÁTICO: Sincroniza todas as variáveis de status do player para o controlador persistente
 // ao final de cada frame. Isso garante que vida, estamina, moedas e upgrades modificados por scripts
 // sejam salvos na persistência.

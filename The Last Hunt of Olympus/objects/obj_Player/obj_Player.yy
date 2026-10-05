@@ -1,20 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
+  "%Name":"obj_Player",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_player",
+  "name":"obj_Player",
   "overriddenProperties":[],
   "parent":{
-    "name":"Player",
-    "path":"folders/Objetos/Player.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":{
-    "name":"obj_lifeForm",
-    "path":"objects/obj_lifeForm/obj_lifeForm.yy",
+    "name":"obj_formaDeVida",
+    "path":"objects/obj_formaDeVida/obj_formaDeVida.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

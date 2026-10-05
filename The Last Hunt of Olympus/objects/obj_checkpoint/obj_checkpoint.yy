@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
+  "%Name":"obj_checkpoint",
   "eventList":[],
   "managed":true,
-  "name":"obj_wall",
+  "name":"obj_checkpoint",
   "overriddenProperties":[],
   "parent":{
-    "name":"World",
-    "path":"folders/Objetos/World.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -26,11 +26,8 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"spr_wall",
-    "path":"sprites/spr_wall/spr_wall.yy",
-  },
+  "solid":false,
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
