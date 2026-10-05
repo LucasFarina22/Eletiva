@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_drawDebug",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_drawDebug",
+  "parent":{
+    "name":"Mundo",
+    "path":"folders/Scripts/Mundo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

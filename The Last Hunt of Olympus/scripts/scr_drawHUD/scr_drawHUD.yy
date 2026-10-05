@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_drawHUD",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_drawHUD",
+  "parent":{
+    "name":"Mundo",
+    "path":"folders/Scripts/Mundo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
