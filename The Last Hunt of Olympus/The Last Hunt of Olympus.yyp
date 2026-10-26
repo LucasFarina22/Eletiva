@@ -40,6 +40,7 @@
     {"id":{"name":"obj_playerStats","path":"objects/obj_playerStats/obj_playerStats.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_water","path":"objects/obj_water/obj_water.yy",},},
+    {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},},
     {"id":{"name":"rm_Fase1","path":"rooms/rm_Fase1/rm_Fase1.yy",},},
     {"id":{"name":"enum_PLAYER_STATE","path":"scripts/enum_PLAYER_STATE/enum_PLAYER_STATE.yy",},},
     {"id":{"name":"scr_collisionX","path":"scripts/scr_collisionX/scr_collisionX.yy",},},
